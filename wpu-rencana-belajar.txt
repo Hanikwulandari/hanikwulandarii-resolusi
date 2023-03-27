@@ -9,8 +9,8 @@ RENCANA BELAJAR WPU
 ^ Proposal
 ^ Cerpen
 - Mata Pelajaran Matematika
-  ^ Polinomial
   ^ Lingkaran
+  ^ Polinomial
   ^ Trigonometri
 - Mata Pelajaran Bahasa Inggris
 - Mata Pelajaran PP
