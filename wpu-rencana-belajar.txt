@@ -6,8 +6,11 @@ RENCANA BELAJAR WPU
   ^ JARKOM
 - Mata Pelajaran PAI
 - Mata Pelajaran Bahasa Indonesia
+^ Proposal
+^ Cerpen
 - Mata Pelajaran Matematika
   ^ Polinomial
   ^ Lingkaran
+  ^ Trigonometri
 - Mata Pelajaran Bahasa Inggris
 - Mata Pelajaran PP
