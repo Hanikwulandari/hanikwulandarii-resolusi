@@ -2,8 +2,11 @@ RENCANA BELAJAR WPU
 
 - Mata Pelajaran TJKT
 * PCC
-* PIC & JARKOM
+* PIC
+  ^ JARKOM
 - Mata Pelajaran PAI
 - Mata Pelajaran Bahasa Indonesia
 - Mata Pelajaran Matematika
+  ^ Polinomial
 - Mata Pelajaran Bahasa Inggris
+- Mata Pelajaran PP
