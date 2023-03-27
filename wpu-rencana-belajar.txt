@@ -12,5 +12,6 @@ RENCANA BELAJAR WPU
   ^ Polinomial
   ^ Lingkaran
   ^ Trigonometri
+  ^ Pecahan
 - Mata Pelajaran Bahasa Inggris
 - Mata Pelajaran PP
